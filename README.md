@@ -24,6 +24,9 @@ Project for the Loyola Hackathon. The idea is to create an innovative computer m
   <h2><u>How will it work?:</u></h2><br>
   The idea is to use the gyroscope from the gy-521 module to read the movement of the user's finger. Everything will be attached to the arduino which will read the data and use the bluetooth module to connect everything to the computer. I am planning to use a python library to control the mouse pointer, which will move according to the data returned by the gyroscope.
   <br><hr><br>
+  <h2><u>Circuit similator:</u></h2><br>
+  <img src="circuit.PNG" alt="circuit simulator">
+  <br><hr><br>
   <h2><u>Platform:</u></h2> <h3>Desktop</h3><br>
   
 </html>
